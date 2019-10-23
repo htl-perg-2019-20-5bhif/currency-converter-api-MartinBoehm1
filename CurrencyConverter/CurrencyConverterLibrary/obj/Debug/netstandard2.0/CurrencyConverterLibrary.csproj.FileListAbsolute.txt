@@ -1,0 +1,10 @@
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\bin\Debug\netstandard2.0\Files\Products.csv
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\bin\Debug\netstandard2.0\Files\Rates.csv
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\bin\Debug\netstandard2.0\CurrencyConverterLibrary.deps.json
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\bin\Debug\netstandard2.0\CurrencyConverterLibrary.dll
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\bin\Debug\netstandard2.0\CurrencyConverterLibrary.pdb
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.csprojAssemblyReference.cache
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.AssemblyInfoInputs.cache
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.AssemblyInfo.cs
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.dll
+C:\Users\boehm\source\repos\currency-converter-api-MartinBoehm1\CurrencyConverter\CurrencyConverterLibrary\obj\Debug\netstandard2.0\CurrencyConverterLibrary.pdb
